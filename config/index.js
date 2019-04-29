@@ -1,5 +1,5 @@
 module.exports = {
-  api_key:'',
-  src_path:'',
-  out_path:''
+  api_key:'sE5xTjOZq5afdFQjwHUk0ybQYjgvbBeJ',
+  src_path:'./resource',
+  out_path:'./resource'
 }
