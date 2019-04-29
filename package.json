@@ -1,0 +1,17 @@
+{
+  "name": "imgmin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "shelljs": "^0.8.3",
+    "tinify": "^1.6.0-beta.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
